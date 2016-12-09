@@ -1,2 +1,2 @@
-# spring-boot
-Spring Boot Examples
+# springboot-ex1-sample
+Spring Boot Examples 1
