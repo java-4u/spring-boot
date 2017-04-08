@@ -1,10 +1,10 @@
-package com.java4u;
+package io.co.java4u;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-public class Sample {
+public class HelloWorlController {
 	@RequestMapping("/")
 	String home() {
 		return "Hello World!";
